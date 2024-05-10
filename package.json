@@ -30,7 +30,7 @@
     "html-react-parser": "^3.0.8",
     "immer": "9.0.17",
     "material-ui-popup-state": "^5.0.4",
-    "next": "^14.1.0",
+    "next": "^14.1.1",
     "nuqs": "^1.15.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
